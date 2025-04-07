@@ -34,12 +34,7 @@ To run this project, you'll need the following Python libraries:
 * `tensorflow` (or other machine learning libraries as needed)
 * `matplotlib` and `seaborn` (for data visualization, optional)
 
-You can install these dependencies using pip:
-
-```bash
-pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
-
-Loan-Approval-Prediction/
+## Loan-Approval-Prediction/
 ├── README.md
 ├── loan_approval_prediction.ipynb   
 ├── data/                            
@@ -65,3 +60,9 @@ Add data validation.
 
 ## Contributing
 Contributions to this project are welcome! Please feel free to submit pull requests with improvements or bug fixes.
+
+## You can install the dependencies using pip:
+
+```bash
+pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
+
